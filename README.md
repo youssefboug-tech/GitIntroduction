@@ -1,5 +1,6 @@
 # GitIntroduction
 
+<<<<<<< HEAD
 “This README file explains what the project is about, how to use it, and any
 
 important details someone new should know. Think of it as a guide for anyone
@@ -10,3 +11,5 @@ how to get started.”
 
 
 
+=======
+>>>>>>> 9ab5617ebcb504bb706f0d5787a94f6447c8c887
